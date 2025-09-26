@@ -2,7 +2,7 @@
 Custom .bashrc for linux and WSL
 
 Two-line prompt:
-   user@host [HH:MM] dir 
+   user@host [HH:MM] dir
        └──────────────┴──$
 
 Colors:
