@@ -1,9 +1,11 @@
 # Pretty .bashrc
 Custom .bashrc for linux and WSL
 
-Two-line prompt:
+Two-line prompt:<br/>
    user@host [HH:MM] dir<br/>
-       └──────────────┴──$
+   *   └──────────────┴──$
+
+Ignore the dot at the begining, that was the only way I could find to line it up here.
 
 Colors:
    user/host   = green (non-root) / red (root)
